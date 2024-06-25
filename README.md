@@ -1,3 +1,3 @@
 # istighfar
 
-A new Flutter project.
+## There is nothing to read
